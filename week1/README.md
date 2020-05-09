@@ -2,7 +2,7 @@ Hello!
 
 We wanted to put together a quick document to help you make sure you’ve set up your environment correctly. First we’ll make sure you have python installed so you can run the files you create in this class, then we’ll recommend a code editor for you.
 
-**Python Install**
+# Python Install
 
 We’re going to point you to the Treehouse videos that were linked in the syllabus to get python set up. Pick the select the type of computer you have and make your way through the course.
 
@@ -11,7 +11,7 @@ We’re going to point you to the Treehouse videos that were linked in the sylla
 [**Setting up a Local Python Environment (Mac)**](https://teamtreehouse.com/library/setting-up-a-local-python-environment-mac)
 
 
-**VS Code**
+# VS Code
 
 Next we’re going to have you install Visual Studio Code. We’re recommending this code editor for the course, but you’ll find a lot of people also write python using [Pycharm](https://www.jetbrains.com/pycharm/) and several other options.
 
