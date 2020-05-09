@@ -10,6 +10,7 @@ We’re going to point you to the Treehouse videos that were linked in the sylla
 
 [**Setting up a Local Python Environment (Mac)**](https://teamtreehouse.com/library/setting-up-a-local-python-environment-mac)
 
+Before we get any further, let’s decide where we want to keep your code for Code Louisville. I personally like having a folder called Code that keeps all my projects in one place.
 
 # VS Code
 
@@ -21,10 +22,7 @@ To get started, please follow the steps for your computer type:
 
 [Visual Studio Code on Windows](https://code.visualstudio.com/docs/setup/windows)
 
-
-Before we get any further, let’s decide where we want to keep your code for Code Louisville. I personally like having a folder called Code that keeps all my projects in one place.
-
-Once you decide, create a new folder in that place called `test_setup`. Next navigate to within that folder in command prompt (windows) or terminal (mac) and run the command to create a virtual environment:
+Now create a new folder where you want your projects called `test_setup`. Next navigate to within that folder in command prompt (windows) or terminal (mac) and run the command to create a virtual environment:
 
 ```
     python3 -m venv my-first-venv
