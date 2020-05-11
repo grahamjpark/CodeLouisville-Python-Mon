@@ -25,7 +25,7 @@ To get started, please follow the steps for your computer type:
 Now create a new folder where you want your projects called `test_setup`. Next navigate to within that folder in command prompt (windows) or terminal (mac) and run the command to create a virtual environment:
 
 ```
-    python3 -m venv my-first-venv
+python3 -m venv my-first-venv
 ```
 
 Now we can write some code! If you open up VS Code, you should see something like this:
@@ -38,11 +38,11 @@ Click Open Folder, and then find the test_setup folder we just created. Now you 
 Go ahead and click new file and then paste in this code:
 
 ```
-    from datetime import date
-    for i in range(1, 4):
-        print(i)
-    today = date.today()
-    print("Today is " + str(today) + " and it's a great day to code!")
+from datetime import date
+for i in range(1, 4):
+    print(i)
+today = date.today()
+print("Today is " + str(today) + " and it's a great day to code!")
 ```
 
 Save the file by pressing ctrl+s (cmd+s on mac) or by clicking File > Save. Save it within our test_setup folder as `first_script.py`.
@@ -67,8 +67,8 @@ When you click it, you might see a few more pop-ups about things you don’t hav
 
 Now you can run your code! Click Run on the top bar and select “Run without Debugging” and you should see the program get run, and then the follow output appear:
 ```
-    1
-    2
-    3
-    Today is 2020-05-09 and it's a great day to code!
+1
+2
+3
+Today is 2020-05-09 and it's a great day to code!
 ```
