@@ -4,7 +4,7 @@ We wanted to put together a quick document to help you make sure you’ve set up
 
 # Python Install
 
-We’re going to point you to the Treehouse videos that were linked in the syllabus to get python set up. Pick the select the type of computer you have and make your way through the course.
+We’re going to point you to the Treehouse videos that were linked in the syllabus to get python set up. Pick the type of computer you have and make your way through the course.
 
 [**Setting up a Local Python Environment (Windows)**](https://teamtreehouse.com/library/setting-up-a-local-python-environment-windows)
 
