@@ -25,7 +25,7 @@ To get started, please follow the steps for your computer type:
 Now create a new folder where you want your projects called `test_setup`. Next navigate to within that folder in command prompt (windows) or terminal (mac) and run the command to create a virtual environment:
 
 ```
-python3 -m venv my-first-venv
+python3 -m venv venv
 ```
 
 Now we can write some code! If you open up VS Code, you should see something like this:
